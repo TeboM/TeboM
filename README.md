@@ -8,3 +8,5 @@ $ whoami -
     * *Qualifications*: BSc Computer Science, A+, Network+, Security+
     * *Certifications of Interest*: CyberOps > eJPT > OSCP > CISSP
 * ⚡ __Fun fact__: I enjoy reading  :books:, gaming  :video_game: and playing the Tuba :notes:.
+
+<script src="https://tryhackme.com/badge/32490"></script>
