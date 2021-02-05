@@ -1,4 +1,4 @@
-###:wave: Hi , I'm Tebo (Altafari)
+### :wave: Hi , I'm Tebo (Altafari)
 
 $ whoami - 
 *  :computer: __Front End Developer__: I build websites, email templates and other User Interfaces for personal and commercial use. 
