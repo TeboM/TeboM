@@ -7,4 +7,4 @@ $ whoami -
 *  :seedling: __Lifelong Learner__. Active Member on TryHackMe, HackTheBox, CTF.Live and many other platforms(online/offline).
     * *Qualifications*: BSc Computer Science, A+, Network+, Security+
     * *Certifications I'm Pursuing*: eJPT |  OSCP | GCIH | CISSP
-* ⚡ __Fun facts__: I   :books:, gaming  :video_game: and playing the Tuba :notes:.
+#* ⚡ __Fun facts__: Bookworm at heart :books:, Occassional Gamer :video_game: and playing the Tuba :notes:.
