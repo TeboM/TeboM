@@ -6,5 +6,5 @@ $ whoami -
 *  :school_satchel: __Penetration Testing Student__: Learning more about OSINT, Attacking Networks and Web Apps, and Social Engineering. 
 *  :seedling: __Lifelong Learner__. Active Member on TryHackMe, HackTheBox, CTF.Live and many other platforms(online/offline).
     * *Qualifications*: BSc Computer Science, A+, Network+, Security+
-    * *Certifications of Interest*: CyberOps > eJPT > OSCP > CISSP
+    * *Certifications I'm Pursuing*: CyberOps > eJPT > OSCP > GCIH
 * ⚡ __Fun fact__: I enjoy reading  :books:, gaming  :video_game: and playing the Tuba :notes:.
