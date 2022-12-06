@@ -5,5 +5,5 @@ $ whoami -
 *  :school_satchel: __Offensive Security Student__: Actively learning and expanding my skills in various ethical hacking domains such as OSINT, Social Engineering, Attacking Networks and Web Applications. 
 *  :computer: __Front End Developer__: Builder of websites, email templates (Email Marketing -> Phishing Campaigns) and bringing design ideas to life. 
 *  :seedling: __Lifelong Learner__. Active Member on TryHackMe, HackTheBox, BlueTeamLabsOnline and many other platforms(online/offline).
-    * *Qualifications*: BSc Computer Science, A+, Network+, Security+
-    * *Certifications Currently Pursuing*: eJPT | BTL1 | eCIR 
+    * *Qualifications*: BSc Computer Science, A+, Network+, Security+, Blue Team Level 1
+    * *Certifications Currently Pursuing*: eJPT | eCIR  
