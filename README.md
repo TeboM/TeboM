@@ -12,7 +12,16 @@
 
 *   :bow_and_arrow: **CRTA (Certified Red Team Analyst) Exam**: Primary focus for 60 days (25 June 2025 - 25 Sept 2025)
 *   :test_tube: **Training Platforms**: CyberDefenders | BlueTeamLabsOnline | TryHackMe | HackTheBox
-*   :notebook: **Student of the Game**: Regular lab journaling, Frequent reviewing of threat intel and detection reports,   
+*   :notebook: **Student of the Game**: Regular lab journaling, Frequent reviewing of threat intel and detection reports, Always aiming to improve my investigative process.
+
+----
+
+### :scroll: Certifications & Qualifications
+
+*   :mortar_board: BSc Computer Science
+*   :briefcase: CompTIA A+ | Network+ | Security+
+*   :large_blue_diamond: Blue Team Level 1 (BTL1)
+*   :crossed_swords: _eJPT & eCIR (on pause, revisiting later this year)_
 *  :seedling: __Lifelong Learner__. Active Member on TryHackMe, HackTheBox, BlueTeamLabsOnline and many other platforms(online/offline).
     * *Qualifications*: BSc Computer Science, A+, Network+, Security+, Blue Team Level 1
     * *Certifications Currently Pursuing*: eJPT | eCIR
