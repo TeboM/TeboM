@@ -27,7 +27,7 @@
 ### :brain: Mindset
 
 *  :seedling: Lifelong learner
-*  :question: Curious about adversary tradecraft
+*  :warning: Curious about adversary tradecraft
 *  :shield: Defensive tactics
 *  :dart: The art of offensive security.
  
