@@ -28,8 +28,8 @@
 
 *  :seedling: Lifelong learner
 *  :warning: Curious about adversary tradecraft
-*  :shield: Defensive tactics
-*  :dart: The art of offensive security.
+*  :shield: Improving Defensive tactics
+*  :dart: Honing The Art of Offensive Security.
  
 > _"Addicted to seeking and understanding. Focused on the craft."_
 
