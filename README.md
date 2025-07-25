@@ -1,6 +1,6 @@
 ### :wave: Hi , I'm Tebo
 
-`$ whoami` - 
+`$ whoami` 
 
 *  :computer: **Security Analyst (SOC – Incident Response & Threat Hunting)**
     * Hands-on in identifying, triaging, and responding to cyber threats as part of a full-time Incident Response team. 
