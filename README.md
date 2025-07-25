@@ -9,8 +9,9 @@ $ whoami -
 
 ---
 
-### Current Learning Focus
+### :books: Current Learning Focus
 
+*   :bow_and_arrow: **CRTA (Certified Red Team Analyst)**: Primary focus for next 60 days (25 June 2025 - 25 Sept 2025)
 *  :seedling: __Lifelong Learner__. Active Member on TryHackMe, HackTheBox, BlueTeamLabsOnline and many other platforms(online/offline).
     * *Qualifications*: BSc Computer Science, A+, Network+, Security+, Blue Team Level 1
     * *Certifications Currently Pursuing*: eJPT | eCIR
