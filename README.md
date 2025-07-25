@@ -22,11 +22,15 @@
 *   :large_blue_diamond: Blue Team Level 1 (BTL1)
 *   :crossed_swords: _eJPT & eCIR (on pause, revisiting later this year)_
 
-*   
-*  :seedling: __Lifelong Learner__. Active Member on TryHackMe, HackTheBox, BlueTeamLabsOnline and many other platforms(online/offline).
-    * *Qualifications*: BSc Computer Science, A+, Network+, Security+, Blue Team Level 1
-    * *Certifications Currently Pursuing*: eJPT | eCIR
+---
+
+### :brain: Mindset
+
+*  :seedling: Lifelong learner
+*  :question: Curious about adversary tradecraft
+*  :shield: Defensive tactics
+*  :dart: The art of offensive security.
  
-> _"Obsessed with the process. Focused on the craft."_
+> _"Addicted to seeking and understanding. Focused on the craft."_
 
 
