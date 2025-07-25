@@ -3,7 +3,7 @@
 `$ whoami` 
 
 *  :computer: **Security Analyst** (Full-time SOC Ninja – Involved in Incident Response & Threat Hunting) 
-*  :performing_arts: __Red-Blue Operator__: Involved both Offensive and Defensive security. Areas of interest (Security Research, Bug Bounty Hunting, Threat Emulation, Threat Hunting and DFIR). 
+*  :performing_arts: __Red-Blue Operator__: Involved in both Offensive and Defensive security. Areas of interest (Security Research, Bug Bounty Hunting, Threat Emulation, Threat Hunting and DFIR). 
 
 ---
 
