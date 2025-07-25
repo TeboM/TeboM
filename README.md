@@ -7,7 +7,7 @@
 
 ---
 
-### :books: Current Areas of Focus
+### :books: Current Focus Areas
 
 *   :bow_and_arrow: **CRTA (Certified Red Team Analyst) Exam**: Primary focus for 60 days (25 June 2025 - 25 Sept 2025)
 *   :test_tube: **Training Platforms**: CyberDefenders | BlueTeamLabsOnline | TryHackMe | HackTheBox
