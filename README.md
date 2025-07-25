@@ -31,6 +31,6 @@
 *  :shield: Improving Defensive tactics
 *  :dart: Honing The Art of Offensive Security.
  
-> _"Addicted to seeking and understanding. Focused on the craft."_
+> _"One query. One hunt. One build at a time. Focused on the craft."_
 
 
