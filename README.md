@@ -2,8 +2,7 @@
 
 `$ whoami` 
 
-*  :computer: **Security Analyst (SOC – Incident Response & Threat Hunting)**
-    * Hands-on in identifying, triaging, and responding to cyber threats as part of a full-time Incident Response team. 
+*  :computer: **Security Analyst (Full-time SOC Ninja – Involved in Incident Response & Threat Hunting)** 
 *  :performing_arts: __Red-Blue Operator__: Involved both Offensive and Defensive security. Areas of interest (Security Research, Bug Bounty Hunting, Threat Emulation, Threat Hunting and DFIR). 
 
 ---
