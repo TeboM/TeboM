@@ -3,13 +3,12 @@
 `$ whoami` 
 
 *  :ninja: **Security Analyst** (Full-time SOC Ninja – Involved in Incident Response & Threat Hunting) 
-*  :performing_arts: __Red & Blue Team Operator__: Actively involved in both Offensive and Defensive security.
-   *   Primary Fields of Engagement:
-       * Security Research
-       * Threat Hunting
-       * Bug Bounty Hunting
-       * Threat Emulation
-       * DFIR 
+*  :performing_arts: __Red & Blue Team Operator__: Primarily enganged in both Offensive and Defensive security operations:
+   * Security Research
+   * Threat Hunting
+   * Bug Bounty Hunting
+   * Threat Emulation
+   * DFIR 
 
 ---
 
