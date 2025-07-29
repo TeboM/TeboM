@@ -4,7 +4,7 @@
 
 *  :ninja: **Security Analyst** (Full-time SOC Ninja – Involved in Incident Response & Threat Hunting) 
 *  :performing_arts: __Red-Blue Operator__: Involved in both Offensive and Defensive security.
- *   Primary Fields of Engagement(Security Research, Bug Bounty Hunting, Threat Emulation, Threat Hunting and DFIR). 
+   *   Primary Fields of Engagement(Security Research, Bug Bounty Hunting, Threat Emulation, Threat Hunting and DFIR). 
 
 ---
 
